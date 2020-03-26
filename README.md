@@ -1,2 +1,2 @@
 # AutoML
-Try AutoML tools
+AutoML tools
